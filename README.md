@@ -1,16 +1,12 @@
-## Hi there 👋
+<h2 align="center">Hey, I'm Sofia Zandonà!</h2>
+<p align="center">Computer Engineer 💻 | Robotics & Automation Master Student 🤖 </p>
 
-<!--
-**Sofiaz17/Sofiaz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Double-degree student, currently at Aalto University, Finland
+- 🚀 Bachelor's thesis on Deep Learning for Embedded Systems
+- 🦾 Used ROS and Gazebo to program UR5 robotic arm
+- 📟 Random projects on embedded systems
+- </> Some software development projects
+- 🧮 Made simulations with MATLAB
+- 🧠 Still a lot of stuff to learn
+- 👀 Looking (desperately) for an Internship to improve (and finally graduate🎉)
