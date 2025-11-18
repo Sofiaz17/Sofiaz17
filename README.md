@@ -9,4 +9,4 @@
 - </> Some software development projects
 - 🧮 Made simulations with MATLAB
 - 🧠 Still a lot of stuff to learn
-- 👀 Looking (desperately) for an Internship to improve (and finally graduate🎉)
+- 👀 Looking for an Internship to improve (and finally graduate🎉)
